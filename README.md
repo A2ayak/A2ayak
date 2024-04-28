@@ -1,5 +1,7 @@
 ### OH Hi 👋
 
+### 求职中，平时都是内网开发，没有很仔细丰富github
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A2ayak)](https://github.com/anuraghazra/github-readme-stats)
 
