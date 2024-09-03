@@ -1,7 +1,7 @@
 ### OH Hi 👋
 
-### 求职中，平时都是内网开发，没有很仔细丰富github
-### 最近在忙：算法、前端八股、开源项目
+### 求内推，base 广州
+### 最近在忙：微前端、前端工程化、blender + three
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A2ayak)](https://github.com/anuraghazra/github-readme-stats)
