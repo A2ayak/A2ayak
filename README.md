@@ -1,7 +1,9 @@
 ### OH Hi 👋
 
-### 求内推，base 广州
-### 最近在忙：微前端、前端工程化、blender + three
+### base 广州，国企FE Dev。
+### 最近在忙，很忙，但不知道在忙什么。
+### 不止于代码管道疏通技术，还有柴米油盐。
+### 精通硬装半包，喜欢三菱雾峰。
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A2ayak)](https://github.com/anuraghazra/github-readme-stats)
