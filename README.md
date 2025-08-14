@@ -1,9 +1,9 @@
 ### OH Hi 👋
 
 ### base 广州，国企FE Dev。
-### 最近在忙，很忙，但不知道在忙什么。
-### 不止于代码管道疏通技术，还有柴米油盐。
-### 精通硬装半包，喜欢三菱雾峰。
+### 不止于代码管道疏通，还有柴米油盐。
+### 精通硬装半包，唯爱三菱雾峰。
+### 电一大乱斗前排，建议内推进贵司开一把。
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A2ayak)](https://github.com/anuraghazra/github-readme-stats)
