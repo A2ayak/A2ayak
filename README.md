@@ -1,9 +1,10 @@
 ### OH Hi 👋
 
-### Base 广州，国企研究院FE Dev打野。
+### Base 广州海珠，国企研究院FE Dev打野。
 ### 不止于代码管道疏通，还有柴米油盐。
-### 精通硬装半包，唯爱三菱雾峰。
-### 电一大乱斗前排，建议内推进贵司开一把。
+### 坚定做多中国，B1猎手，4231，TTSS。
+### 🏓小腿，🏀略懂，电一乱斗前排。
+### 贵司缺人可补位。
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A2ayak)](https://github.com/anuraghazra/github-readme-stats)
