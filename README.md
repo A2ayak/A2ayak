@@ -1,10 +1,10 @@
 ### OH Hi 👋
 
-### Base 广州海珠，国企研究院FE Dev打野。
+### Base 广州海珠，某研究院SE Dev打野。
 ### 不止于代码管道疏通，还有柴米油盐。
 ### 坚定做多中国，B1 Hunter，TTSS。
-### 爱好🏓，🏀 NPC，电一乱斗自带亮剑。
-### 贵司缺人可补位，包夯。
+### 爱好🏓，🏀 NPC，电一乱斗前排。
+### 贵司AI应用开发缺人可补位。
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A2ayak)](https://github.com/anuraghazra/github-readme-stats)
